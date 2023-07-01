@@ -4,7 +4,7 @@
 
 ## YOUTUBE & DEMO PLAY
 <div align="center">
-  <img src="https://github.com/JeongHyunah/Unity_BangWol_Demo_with_Team/assets/104128693/f2facf62-526d-41bb-8cea-05e759b960b0" alt="팀 로고 애니메이션"><br><br>
+  <img src="https://github.com/SungMinseok/TheNormalThingSourceCodes/assets/104128693/be5c4ce4-071e-4681-a79f-e2d5d6804ec6" alt="팀 로고 애니메이션"><br><br>
   <a href="https://youtu.be/RGsxJjlq_1A">👆 플레이 영상 보러 가기</a> &nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/118rx3r2QB5lifMFzfy1a9hWtR64uIVqR/view?usp=sharing">🎮 게임 플레이 하러 가기</a>
 </div>
