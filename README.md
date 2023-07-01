@@ -16,7 +16,7 @@
   - [정현아](https://github.com/JeongHyunah) : 
   - [강나연](https://github.com/eheygucham) : 
   - [정홍재](https://github.com/H-J52) :
-  - [박성준]() :
+  - [박성준](https://github.com/guntaekim) :
 
 ***
 
